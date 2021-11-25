@@ -7,6 +7,7 @@ export default function Admin() {
       <img src="https://www.facebook.com/images/fb_icon_325x325.png" />
 
       <h1>Admin</h1>
+      <h1>Admin</h1>
     </div>
   );
 }
